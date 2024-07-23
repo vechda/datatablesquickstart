@@ -4,6 +4,7 @@ unique_ids:
   modules: {}
   server_modules:
     ServerModule1: '1628004843479765706800007.7161'
+    ServerPackage1: 5AACJP6Y6C3URK7MEFODJ4A5RMM6XMCR
   assets:
     standard-page.html: YZX6SCRRXSYWFTDASVUXQK7SYH4FVWXC
     theme.css: 7JRKJEEKCKD47YB4BFFDVH3ERI3ZM7AW
