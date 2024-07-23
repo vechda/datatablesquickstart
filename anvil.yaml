@@ -33,7 +33,11 @@ startup_form: Form1
 correct_dependency_ids: {W4B3TDKJEAXPB5XJ: W4B3TDKJEAXPB5XJ}
 uplink_visible: true
 renamed: true
-runtime_options: {version: 2, server_version: python3-sandbox, client_version: '2', server_spec: null}
+runtime_options:
+  version: 2
+  server_version: python3-sandbox
+  client_version: '3'
+  server_spec: {base: python310-standard}
 dependencies: []
 metadata: {}
 services:
